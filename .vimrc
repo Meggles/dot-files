@@ -202,7 +202,7 @@ set laststatus=2
 "   %V current virtual column number (-n), if different from %c
 "   %P percentage through buffer
 "   %) end of width specification
-set statusline=%{fugitive#statusline()}
+"   set statusline=%{fugitive#statusline()}
 set statusline+=%<\ %n:%f\ %m%r%y%=%-35.(line:\ %l\ of\ %L,\ col:\ %c%V\ (%P)%)
 
 
