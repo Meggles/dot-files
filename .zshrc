@@ -84,6 +84,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias gru="git remote update -p origin"
 alias ll="ls -la"
+alias be="bundle exec"
 
 export NVM_DIR="/Users/megbroughton/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
