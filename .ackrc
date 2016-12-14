@@ -1,0 +1,12 @@
+--ignore-dir=tmp/
+--ignore-dir=log/
+--ignore-dir=vendor/
+--ignore-dir=dist/
+--ignore-dir=bower_components/
+--ignore-dir=node_modules/
+--ignore-dir=frontend/tmp/
+--ignore-dir=frontend/vendor/
+--ignore-dir=frontend/dist/
+--ignore-dir=frontend/bower_components/
+--ignore-dir=frontend/node_modules/
+
